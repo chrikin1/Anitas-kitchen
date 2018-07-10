@@ -1,47 +1,140 @@
+#subscribe{
+background-color:#F15A29;
+color: white;
+padding-right: 35px;
+padding-left: 35px;
+text-align: center;
+margin-left: 350px;
+border-color: #F15A29;
+margin-top: 20px;
+}
+#logo{
+ margin-top: 50px;
+ margin-left: 560px;
+ }
+#menu{
+ margin-top: 50px;
+ margin-right: 650px;
+}
+#btn{
+ background-color: white;
+ border-color:#F15A29;
+ padding-right: 3%;
+ padding-top: 3%;
+ padding-bottom: 3%;
+ padding-left: 3%;
+ color: #F15A29;
+ margin-top: 16px;
+ margin-left: 16px;
+}
 #section-head{
-    text-align: center;
-    color: white;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background: fixed;
-    background-image: url("../assets/backgrounds/landing.jpg");
-   }
+ text-align: center;
+ color: white;
+ background-repeat: no-repeat;
+ background-size: cover;
+ background: fixed;
+ background-image: url("../assets/backgrounds/landing.jpg");
 
-   #partytime{
-    background-color: #F15A29;
-    color:white;
-    text-align: center;
-    padding-bottom: 4%;
-   }
-
-   #breakfast{
-    background-image: url("../assets/foodtop/breakfast.jpg");
-    color: white;
-    padding-bottom: 5%;
-    text-align: center;
-    }
-    #lunch{
-     background-image: url("../assets/foodtop/lunch.jpg");
-     color: white;
-     padding-bottom: 5%;
-     text-align: center;
-    }
-    #Dinner{
-     background-image: url("../assets/foodtop/dinner.jpg");
-     color: white;
-     padding-bottom: 5%;
-     text-align: center;
-    }
-    #HappyHour{
-     text-align: center;
-     background-color: white;
-    }
-    #section-content1{
-     padding-top: 10%;
-     padding-bottom: 10%;
-     padding-right: 10%;
-     padding-left: 10%
-    }
-    .col-md-5{
-     padding-left: 10%;
-    }
+}
+#partytime{
+ background-color: #F15A29;
+ color:white;
+ text-align: center;
+ padding-bottom: 3%
+}
+#breakfast{
+background-image: url("../assets/foodtop/breakfast.jpg");
+color: white;
+padding-bottom: 5%;
+text-align: center;
+}
+#lunch{
+ background-image: url("../assets/foodtop/lunch.jpg");
+ color: white;
+ padding-bottom: 5%;
+ text-align: center;
+}
+#Dinner{
+ background-image: url("../assets/foodtop/dinner.jpg");
+ color: white;
+ padding-bottom: 5%;
+ text-align: center;
+}
+#HappyHour{
+ text-align: center;
+ background-color: white;
+}
+#section-content1{
+ padding-top: 10%;
+ padding-bottom: 10%;
+ padding-right: 10%;
+ padding-left: 10%
+}
+.col-md-5{
+ padding-left: 10%;
+}
+#drinks{
+ padding-left: 15%;
+}
+.section-subscribe{
+ text-align: center;
+ background-image: url("../assets/backgrounds/subscribe.jpg");
+ color: white;
+ padding-bottom: 15%;
+}
+#sectionabout{
+ background-color: #F15A29;
+ color: white;
+ text-align: center;
+ padding-bottom: 6%
+}
+#clients{
+ border-right: solid 1px aliceblue;
+ border-left: solid 1px aliceblue;
+ border-top: solid 1px aliceblue;
+ border-bottom: solid 1px aliceblue;
+ padding-bottom: 10%;
+ padding-left: 10%;
+ padding-top: 10%;
+ padding-right:10%;
+}
+#section-content2{
+ padding-bottom: 8%;
+}
+#slide{
+ color:#F15A29;
+ background-color: white;
+ background-image: url("../assets/backgrounds/foodsBg.jpg");
+ padding-bottom: 50px;
+}
+#white{
+ background-color: white;
+ margin: 8%;
+ padding-top: 3%;
+ padding-bottom: 3%;
+ padding-left: 3%;
+ padding-right: 3%;
+}
+#bar{
+ border-top: solid 1px grey;
+ border-bottom: solid 1px grey;
+ border-left: solid 1px grey;
+ border-right: solid 1px grey;
+ border-color: grey;
+ padding-bottom: 10px;
+ background-color: #f2f2f2;
+ margin-bottom: 4%;
+ text-align: center;
+}
+#bar hover{
+   color: #66a3ff;
+}
+#customers{
+ align-items: center;
+}
+#heading1{
+ color:#F15A29;
+}
+#heading2{
+ color: #F15A29;
+}
