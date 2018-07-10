@@ -1,0 +1,47 @@
+#section-head{
+    text-align: center;
+    color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background: fixed;
+    background-image: url("../assets/backgrounds/landing.jpg");
+   }
+
+   #partytime{
+    background-color: #F15A29;
+    color:white;
+    text-align: center;
+    padding-bottom: 4%;
+   }
+
+   #breakfast{
+    background-image: url("../assets/foodtop/breakfast.jpg");
+    color: white;
+    padding-bottom: 5%;
+    text-align: center;
+    }
+    #lunch{
+     background-image: url("../assets/foodtop/lunch.jpg");
+     color: white;
+     padding-bottom: 5%;
+     text-align: center;
+    }
+    #Dinner{
+     background-image: url("../assets/foodtop/dinner.jpg");
+     color: white;
+     padding-bottom: 5%;
+     text-align: center;
+    }
+    #HappyHour{
+     text-align: center;
+     background-color: white;
+    }
+    #section-content1{
+     padding-top: 10%;
+     padding-bottom: 10%;
+     padding-right: 10%;
+     padding-left: 10%
+    }
+    .col-md-5{
+     padding-left: 10%;
+    }
