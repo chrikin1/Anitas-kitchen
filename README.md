@@ -1,14 +1,12 @@
-# Independent Project
+Anita-Restaurant
+##Author: chris ian Bartoo
 
-## Instructions
-  1) Please clone the Moringa School **mpft1-ip** repo to your computer.
+#Description: This project involved the creation of a restaurant's website for Anita.
 
-  2) Create a repo on your profile, and copy the files from **mpft1-ip** to your new repo.
-  
-  3) Fix up the folder structure.
+#Project setup instructions: The codes can be run on any text editor such as atom, sublime, etc. Any web browser such as Google chrome, Mozilla Firefox, etc can run the codes.
 
-  4) Submit your link through Moringa School LMS.
+#Link to live site: https://chrikin1.github.io/Anitas-kitchen/
 
-  5) Complete the independent project.
-  
-  6) Push your commits up to your repo.
+#Copyright (C) Chris Ian  Bartoo
+
+#Licence: MIT Licence
